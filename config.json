@@ -1,0 +1,9 @@
+{
+    "openai": {
+        "api_key": "",
+        "api_base": "",
+        "model_name": "gpt-35-turbo",
+        "api_version": "2023-03-15-preview",
+        "api_type": "azure"
+    }
+}
